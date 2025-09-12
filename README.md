@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MoustaqimSami
 - 👀 I’m interested in being a really good developer.
-- 🌱 I’m currently learning to improve my skills on javascript and learn new languages
-- 💞️ I’m looking to collaborate on Javascript projects
+- 🌱 I’m currently learning to improve my skills on ... everything! mainly Competitive Programming and Embedded Engineering tho!
+- 💞️ I’m looking to collaborate on Embedded Engineering Projects
 - 📫 How to reach me moustaqimsami1@gmail.com
 
 <!---
